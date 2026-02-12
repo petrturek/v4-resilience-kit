@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # Railway env variable (nastavíš v Railway dashboardu)
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8003982397:AAH2d-A5ArpXUGYnISbdrx16d7LlFaPg_6s")
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 
 # Logging
 logging.basicConfig(
