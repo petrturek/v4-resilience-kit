@@ -4,20 +4,18 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "🌾 Haná – přírodní hranice",
-        "description": "Morava ↔ Bečva ↔ Haná\nLouky + pole mezi řekami"
+        "name": "🌾 Haná – přesné přírodní hranice",
+        "description": "Zábřeh ↔ Kroměříž ↔ Jevíčko ↔ Vyškov"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-            [17.10, 49.75],
-            [17.40, 49.65],
-            [17.50, 49.50],
-            [17.30, 49.30],
-            [16.90, 49.35],
-            [16.80, 49.55],
-            [17.10, 49.75]
+            [17.10, 49.85],  // sever: Zábřeh
+            [17.50, 49.70],  // východ: Kroměříž  
+            [16.95, 49.55],  // západ: Jevíčko/V.Opatovice
+            [17.00, 49.35],  // jih: Vyškov
+            [17.10, 49.85]   // zpět na Zábřeh
           ]
         ]
       }
