@@ -4,17 +4,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hana - presne hranice",
-        "description": "Zabreh-Kromeriz-Jevicko-Vyskov"
+        "name": "Hana - finalni hranice",
+        "description": "Zabreh-Kromeriz-Vyskov-Jevicko"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [[
           [16.95, 49.85],
-          [17.30, 49.75],
-          [17.10, 49.50],
-          [16.90, 49.40],
-          [16.70, 49.50],
+          [17.45, 49.75],
+          [17.35, 49.55],
+          [17.00, 49.25],
+          [16.70, 49.45],
           [16.95, 49.85]
         ]]
       }
