@@ -4,19 +4,19 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hana - Jurende 1815",
-        "description": "Litovel-Sternberk-Holesov-Napajedla-Vyskov-Prostejov"
+        "name": "Hana",
+        "description": "Litovel Sternberk Holesov Napajedla Vyskov Prostejov"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [[
-          [17.08, 49.70],  // Litovel
-          [17.30, 49.75],  // Sternberk  
-          [17.50, 49.55],  // Holesov
-          [17.15, 49.25],  // Napajedla
-          [16.98, 49.15],  // Vyskov
-          [16.73, 49.47],  // Prostejov
-          [17.08, 49.70]   // uzavreni
+          [17.08, 49.70],
+          [17.30, 49.75],
+          [17.50, 49.55],
+          [17.15, 49.25],
+          [16.98, 49.15],
+          [16.73, 49.47],
+          [17.08, 49.70]
         ]]
       }
     }
