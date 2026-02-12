@@ -69,15 +69,16 @@ async def manifesto(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
 
 async def mapa(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Regionální mapy"""
     await update.message.reply_text(
-        "🗺️ <b>VYTVOŘ MAPU TVÉHO REGIONU</b>\n\n"
-        "1️⃣ umap.openstreetmap.fr\n"
-        "2️⃣ Importuj z repa: umap-hana.json\n"
-        "3️⃣ Nakresli <b>přírodní hranice</b>\n"
-        "4️⃣ Export PDF pro fest\n\n"
-        "<i>Příklad Haná: github.com/petrturek/v4-resilience-kit</i>",
-        parse_mode='HTML'
+        "🗺️ <b>HANÁ – regionální mapa</b>\n\n"
+        "👉 <a href='https://umap.openstreetmap.fr/cs-cz/map/hana12345_1359751'>Ukaž mapu Hané</a>\n\n"
+        "<b>Jak upravit:</b>\n"
+        "1. Import umap-hana.json z GitHub\n"
+        "2. Uprav polygon (řeky/hory)\n"
+        "3. Export PDF pro fest\n\n"
+        "<i>github.com/petrturek/v4-resilience-kit/umap-hana.json</i>",
+        parse_mode='HTML',
+        disable_web_page_preview=False
     )
 
 def main():
