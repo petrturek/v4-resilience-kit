@@ -3,12 +3,21 @@
 ## 1. Vytvoř bot
 t.me/BotFather → /newbot → @ResilienceV4Bot → token ulož
 
-## 2. Replit deploy
-1. replit.com → Sign up (GitHub)
-2. "Create Repl" → Python
-3. Smaž výchozí kód, vlož telegram-bot.py
-4. Do bot.py nahraď "TVŮJ_BOT_TOKEN"
-5. Klik "Run" → bot online!
+# 🤖 DEPLOY V4 RESILIENCE BOT (5 minut)
+
+## Railway.app (zdarma $5/měsíc)
+1. railway.app → GitHub login
+2. New Project → v4-resilience-kit  
+3. Variables → TELEGRAM_BOT_TOKEN = [tvůj_token]
+4. Deploy → bot jede 24/7!
+
+## Lokálně (Windows/Mac/Linux)
+pip install -r requirements.txt
+python telegram-bot.py
+
+
+## Bot příkazy: 
+/fest /trh /manifesto /mapa
 
 ## 3. Test
 Telegram → @ResilienceV4Bot → /start
