@@ -37,7 +37,7 @@ async def trh(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     # Nahraď TVŮJ_TOKEN z t.me/BotFather
-    app = Application.builder().token("TVŮJ_BOT_TOKEN").build()
+    app = Application.builder().token("8003982397:AAH2d-A5ArpXUGYnISbdrx16d7LlFaPg_6s").build()
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("fest", fest))
     app.add_handler(CommandHandler("trh", trh))
