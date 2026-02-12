@@ -4,19 +4,19 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "🌾 Haná – přesné hranice",
+        "name": "🌾 Haná – správné hranice",
         "description": "Zábřeh-Kroměříž-Jevíčko-Vyškov"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-            [16.88, 49.82],
-            [17.32, 49.72],
-            [17.45, 49.62],
-            [17.15, 49.45],
-            [16.75, 49.48],
-            [16.88, 49.82]
+            [16.88, 49.82],  // sever: Zábřeh
+            [17.32, 49.72],  // východ: Kroměříž  
+            [17.25, 49.52],  // jihovýchod: před Vyškovem
+            [17.00, 49.42],  // jih: Vyškov
+            [16.75, 49.48],  // západ: Jevíčko
+            [16.88, 49.82]   // zpět
           ]
         ]
       }
