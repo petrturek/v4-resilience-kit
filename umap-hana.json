@@ -4,18 +4,19 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hana - finalni hranice",
-        "description": "Zabreh-Kromeriz-Vyskov-Jevicko"
+        "name": "Hana - Jurende 1815",
+        "description": "Litovel-Sternberk-Holesov-Napajedla-Vyskov-Prostejov"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [[
-          [16.95, 49.85],
-          [17.45, 49.75],
-          [17.35, 49.55],
-          [17.00, 49.25],
-          [16.70, 49.45],
-          [16.95, 49.85]
+          [17.08, 49.70],  // Litovel
+          [17.30, 49.75],  // Sternberk  
+          [17.50, 49.55],  // Holesov
+          [17.15, 49.25],  // Napajedla
+          [16.98, 49.15],  // Vyskov
+          [16.73, 49.47],  // Prostejov
+          [17.08, 49.70]   // uzavreni
         ]]
       }
     }
