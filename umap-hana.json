@@ -11,26 +11,15 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [17.05, 49.75],  // sever: Šumperk
-            [17.45, 49.65],  // východ: Bystřice p. Host.
-            [17.55, 49.45],  // jihovýchod: Břeclav
-            [17.25, 49.25],  // jih: Přerov
-            [16.85, 49.30],  // západ: Olomouc
-            [16.75, 49.50],  // severozápad: Prostějov
-            [17.05, 49.75]   // zpět na start
+            [17.10, 49.75],
+            [17.40, 49.65],
+            [17.50, 49.50],
+            [17.30, 49.30],
+            [16.90, 49.35],
+            [16.80, 49.55],
+            [17.10, 49.75]
           ]
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "🎯 START: Olomouc",
-        "description": "Zoom zde → uprav polygon"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [17.25, 49.59]
       }
     }
   ]
