@@ -1,27 +1,66 @@
-# Resilience Fest Šablona | 1. máj 2026
-Open-source plán pro tvůj region – trh, debata, slavnost
+# 🗓️ RESILIENCE FEST | 1. MÁJ 2026
+## ŠABLONA PRO TVŮJ REGION
 
-## 🗓️ PROGRAM (10:00–16:00)
-- **10:00 Sousedský trh** – vyměň/prodávej jídlo, služby, půdu (bez daní)
-- **12:00 Společný gril** – regionální speciality (Haná guláš, Slezsko klobása)
-- **14:00 Debata** – "Naše půda vs. hypotéka" (5min příspěvky, hlasování rukama)  
-- **16:00 Slavnost** – hudba, děti, networking "kdo co umí"
+---
 
-## 📍 LOGISTIKA (zdarma/100 Kč/hlava)
-- **Místo:** Obecní sál/náměstí (kulturní event = zdarma)
-- **Financování:** Crowdfunding 100 Kč/hlava = 100 lidí zdarma
-- **Propagace:** FB event + tisk 50x A4 (Canva z repo)
+## 📍 LOKACE
+[🚜 louka u řeky | ⛺ koupaliště | 🏔️ kopec s výhledem]
+[📈 louka s parkováním | 🌳 háj u obce | 🏞️ břeh řeky]
 
-## 📋 VÝSTUP: Regionální manifest
-"Chceme [Haná/Slezsko/Orava] jako autonomní kanton s:
-- Vlastní daní
-- Referendy o velkých rozhodnutích  
-- Lokální měnou pro sousedský obchod"
+## 📋 PROGRAM (10:00–16:00)
+10:00 🚪 Otevření + Sousedský trh
+   • Jídlo z regionu (5Kč/100g)
+   • Služby (truhlář, zahradník...)
+   • Půda na prodej/nájem (mapa)
 
-## 🚀 START ZA 48H
-1. Uprav tento text pro svůj region
-2. Založ FB event #v4resilience_hana
-3. Pošli do místních skupin
-4. Podepiš manifest + fotky na X
+12:00 🔥 Regionální gril
+   • Místní maso + zelenina
+   • Pivo z [místní pivovar]
 
-**Synchronizace: 1. máj 2026 – 50+ regionů V4**
+14:00 🗣️ DEBATA: PŮDA vs HYPOTÉKA
+   • Proč kupovat půdu místo bytu?
+   • Jak funguje družstevní půda?
+   • Co dělat s dědictvím?
+
+16:00 🎉 SLAVNOST + Networking
+   • Hry pro děti
+   • Podepsání Manifestu
+   • Plán na další event
+
+## 📢 INZERÁT (FB skupina / Nextdoor)
+🇨🇿🇸🇰🇭🇺🇵🇱 [TVŮJ_REGION] RESILIENCE FEST!
+
+📅 1.5.2026 | 10-16h | [LOKACE]
+✅ Sousedský TRH (jídlo+služby)
+✅ Regionální GRIL  
+✅ Debata PŮDA vs HYPOTÉKA
+✅ Dětský program + networking
+
+🆓 VSTUP zdarma
+🗺️ Mapa regionu na místě
+🤖 Bot: @V4ResilienceBot /fest
+
+#v4resilience_[tvůj_region] #puda #region #trh
+
+## 📜 MANIFEST REGIONÁLNÍ AUTONOMIE
+My, obyvatelé [Haná/Slezsko/Orava/Podunajsko...] 
+
+✅ ŽÁDÁME vlastní daně pro místní projekty
+✅ CHCEME referenda o velkých rozhodnutích  
+✅ SOUHLASÍME s lokální měnou pro sousedský obchod
+✅ DEFINUJEME přírodní hranice našeho regionu
+
+Podepsáno na Resilience Fest 1.5.2026
+_____________________
+
+## 🎯 ÚKOL PRO ORGANIZÁTORA (30 minut)
+[ ] 1. Vyber louku (DJM katastr)
+[ ] 2. Screenshot /mapa z @V4ResilienceBot
+[ ] 3. Inzerát do 3x FB skupiny  
+[ ] 4. Tisk 50x A4 pro trh
+[ ] 5. Gril – 10kg maso od místního
+
+---
+
+github.com/petrturek/v4-resilience-kit | CC0
+#v4resilience_[tvůj_region]
