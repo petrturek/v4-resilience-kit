@@ -1,0 +1,40 @@
+{
+  "type": "https://umap.openstreetmap.fr/map",
+  "name": "🗺️ Haná - Regionální hranice",
+  "settings": {
+    "zoom": 10,
+    "lat": 49.4667,
+    "lon": 17.1167,
+    "limitBounds": "1",
+    "bounds": {
+      "north": 49.8,
+      "south": 49.1,
+      "east": 17.6,
+      "west": 16.6
+    }
+  },
+  "layers": [
+    {
+      "id": 1,
+      "name": "🌾 Haná - přírodní hranice",
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Haná",
+            "description": "Přírodní hranice Hané\nŘeky: Morava, Bečva, Haná\nLouky + pole mezi řekami"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [[
+              [17.1, 49.7], [17.4, 49.6], [17.5, 49.4], 
+              [17.3, 49.2], [16.9, 49.3], [16.8, 49.5],
+              [17.1, 49.7]
+            ]]
+          }
+        }
+      ]
+    }
+  ]
+}
