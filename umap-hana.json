@@ -4,19 +4,29 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "🗺️ Haná - TVOJE hranice",
-        "description": "Nakresli řeky Morava-Bečva-Haná + tvé louky"
+        "name": "🌾 Haná – přírodní hranice",
+        "description": "Morava ↔ Bečva ↔ Haná\nLouky + pole mezi řekami"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [17.1167, 49.4667]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [17.05, 49.75],  // sever: Šumperk
+            [17.45, 49.65],  // východ: Bystřice p. Host.
+            [17.55, 49.45],  // jihovýchod: Břeclav
+            [17.25, 49.25],  // jih: Přerov
+            [16.85, 49.30],  // západ: Olomouc
+            [16.75, 49.50],  // severozápad: Prostějov
+            [17.05, 49.75]   // zpět na start
+          ]
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "START: Olomouc",
-        "description": "Zoom zde → nakresli polygon"
+        "name": "🎯 START: Olomouc",
+        "description": "Zoom zde → uprav polygon"
       },
       "geometry": {
         "type": "Point",
